@@ -1,2 +1,2 @@
-# Serial write
-Code I've worked on as a member of CU Inspace Avionics
+# Serial Write
+Simple serial write code made as a member of CU Inspace Avionics
